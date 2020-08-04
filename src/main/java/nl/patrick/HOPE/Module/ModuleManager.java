@@ -1,8 +1,6 @@
 package nl.patrick.HOPE.Module;
 
-import nl.patrick.HOPE.Module.Modules.Arraylist;
-import nl.patrick.HOPE.Module.Modules.DiscordRPC;
-import nl.patrick.HOPE.Module.Modules.Fullbright;
+import nl.patrick.HOPE.Module.Modules.*;
 
 import java.util.ArrayList;
 
