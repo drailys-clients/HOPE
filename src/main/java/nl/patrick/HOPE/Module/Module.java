@@ -41,6 +41,8 @@ public class Module {
     public void gameTickEvent(TickEvent event) {
 
         if(this.isToggled()) onUpdate();
+ 
+        onUpdate();
     }
     public void setSettings(Settings newSettings) {
         settings = newSettings;
